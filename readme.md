@@ -42,7 +42,7 @@ steam VR 1.1+ required
 dialogue scripts are not included
 
 <br/>
-![asd](https://github.com/soominzoh/vrss_unity/assets/41356288/6676644c-0b1e-4d3b-b595-73af4142575e)
+<img src="/uploads/https://github.com/soominzoh/vrss_unity/assets/41356288/6676644c-0b1e-4d3b-b595-73af4142575ewidth="700" height="370">
 <br/>
 
 
