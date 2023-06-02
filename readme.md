@@ -34,11 +34,20 @@ Korea Univ. School of Psychology https://psy.korea.ac.kr/
 
 
 
-<unity version 2019.4.20f1><br/>
+unity version 2019.4.20f1<br/>
+steam VR 1.1+ required
+<br/>
+<br/>
+<br/>
 dialogue scripts are not included
+
+<br/>
+![asd](https://github.com/soominzoh/vrss_unity/assets/41356288/6676644c-0b1e-4d3b-b595-73af4142575e)
+<br/>
+
 
 
 
 <br/><br/><br/>
-some non-commercial assets from unity asset store are included. contact zsm21375@gmail.com before use.
+some non-commercial assets from unity asset store are included. contact zsm21375@gmail.com for public use.
 <br/><br/><br/><br/>
