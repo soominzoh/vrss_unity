@@ -42,6 +42,7 @@ steam VR 1.1+ required
 dialogue scripts are not included
 
 <br/>
+if installed properly,scene should look something like this.
 <img src="https://github.com/soominzoh/vrss_unity/assets/41356288/b522e073-e146-47c7-ba39-659b1624ef70" width="600" height="328"?
 
 <br/>
