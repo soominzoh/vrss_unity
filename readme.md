@@ -11,6 +11,11 @@ School of Psychology, Korea University, Korea
 
 
 
+<br/><br/>
+
+[WCCBT Poster.pdf](https://github.com/soominzoh/vrss_unity/files/11632560/1.1.pdf)
+
+
 <br/><br/><br/><br/>
 <br/>
 
@@ -20,10 +25,7 @@ Korea Univ. School of Psychology https://psy.korea.ac.kr/
 
 
 
-<br/><br/><br/>
-
-[Poster.pdf](https://github.com/soominzoh/vrss_unity/files/11632560/1.1.pdf)
-
+<br/><br/>
 
 
 <br/><br/><br/>
