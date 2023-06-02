@@ -42,7 +42,8 @@ steam VR 1.1+ required
 dialogue scripts are not included
 
 <br/>
-<img src="/uploads/https://github.com/soominzoh/vrss_unity/assets/41356288/6676644c-0b1e-4d3b-b595-73af4142575ewidth="700" height="370">
+<img src="https://github.com/soominzoh/vrss_unity/assets/41356288/b522e073-e146-47c7-ba39-659b1624ef70" width="600" height="328"?
+
 <br/>
 
 
