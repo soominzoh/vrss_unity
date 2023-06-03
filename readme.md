@@ -13,7 +13,8 @@ School of Psychology, Korea University, Korea
 
 <br/><br/>
 
-[WCCBT Poster.pdf](https://github.com/soominzoh/vrss_unity/files/11632560/1.1.pdf)
+<img src="https://github.com/soominzoh/vrss_unity/assets/41356288/a77ba3b2-57bb-494f-9aec-88bbc540dd21" width="841" height="1189">
+
 
 
 <br/><br/><br/><br/>
@@ -43,7 +44,7 @@ dialogue scripts are not included
 
 <br/>
 if installed properly,scene should look something like this
-<img src="https://github.com/soominzoh/vrss_unity/assets/41356288/b522e073-e146-47c7-ba39-659b1624ef70" width="600" height="328"?
+<img src="https://github.com/soominzoh/vrss_unity/assets/41356288/b522e073-e146-47c7-ba39-659b1624ef70" width="600" height="328">
 
 <br/>
 
