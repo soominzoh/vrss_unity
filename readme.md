@@ -2,7 +2,7 @@
 <br/>
 demo version of the experiment task used for<br/>
 [Physiological Responses to Social Rejection in Nonsuicidal Self-Injury]
-<br/>
+<br/><br/>
 developed by.<br/>
 Soo Min Zoh, Eunjin Jo, Jae Oh Lee, Hyeri Moon,<br/>
 under the supervision of Professor Ji-Won Hur
@@ -11,7 +11,7 @@ School of Psychology, Korea University, Korea
 
 
 
-<br/><br/>
+<br/><br/><br/>
 
 <img src="https://github.com/soominzoh/vrss_unity/assets/41356288/a77ba3b2-57bb-494f-9aec-88bbc540dd21" width="841" height="1189">
 
